@@ -12,6 +12,10 @@
 
  git commit -m "escreva sua mensagem aqui"
 
+ git pull origin main
+
+ git push origin main
+
  ```
 
 
